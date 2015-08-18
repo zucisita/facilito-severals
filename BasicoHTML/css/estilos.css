@@ -1,0 +1,43 @@
+/**{
+  margin: 0;
+  padding: 0;
+}*/
+
+h1, h2, h3, h4, h5, h6{
+  color: red;
+}
+
+h1{
+  font-size: 50px;
+}
+
+h2{
+  font-size: 40px;
+}
+
+/*p{
+  color:blue;
+}*/
+/*
+a{
+  font-size: 20px;
+}*/
+
+/*selector*/
+p a {
+  font-size: 20px;
+}
+
+/*clases*/
+.yellow{
+  color:yellow;
+}
+
+p .green{
+  color:green;
+}
+
+a[href="http://www.falconmasters.com"]{
+  color: green;
+  font-size: 30px;
+}
